@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21.0.11\bin"/>
-    <property name="sun.java.command" value="C:\Users\sravan kumar Bari\AppData\Local\Temp\surefire15172088253401970162\surefirebooter-20260720214840074_3.jar C:\Users\sravan kumar Bari\AppData\Local\Temp\surefire15172088253401970162 2026-07-20T21-48-39_862-jvmRun1 surefire-20260720214840074_1tmp surefire_0-20260720214840074_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\sravan kumar Bari\AppData\Local\Temp\surefire6687607220700229704\surefirebooter-20260720215029190_3.jar C:\Users\sravan kumar Bari\AppData\Local\Temp\surefire6687607220700229704 2026-07-20T21-50-28_878-jvmRun1 surefire-20260720215029190_1tmp surefire_0-20260720215029190_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\sravan kumar Bari\OneDrive\Desktop\Digital-Nurture-DeepSkilling\Testing_Frameworks\junitExercises\target\test-classes;C:\Users\sravan kumar Bari\OneDrive\Desktop\Digital-Nurture-DeepSkilling\Testing_Frameworks\junitExercises\target\classes;C:\Users\sravan kumar Bari\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\sravan kumar Bari\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sravan kumar Bari\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\sravan kumar Bari\.m2\repository\net\bytebuddy\byte-buddy\1.14.15\byte-buddy-1.14.15.jar;C:\Users\sravan kumar Bari\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\sravan kumar Bari\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\sravan kumar Bari\AppData\Local\Temp\surefire15172088253401970162\surefirebooter-20260720214840074_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\sravan kumar Bari\AppData\Local\Temp\surefire6687607220700229704\surefirebooter-20260720215029190_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.11+9-LTS-211"/>
