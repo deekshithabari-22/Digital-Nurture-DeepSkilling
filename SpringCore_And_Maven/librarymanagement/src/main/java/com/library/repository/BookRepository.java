@@ -2,8 +2,8 @@ package com.library.repository;
 
 public class BookRepository {
 
-    public void displayRepository() {
-        System.out.println("BookRepository Bean Created");
+    public void saveBook() {
+        System.out.println("Book saved successfully.");
     }
 
 }

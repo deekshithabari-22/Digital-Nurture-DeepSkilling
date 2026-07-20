@@ -4,15 +4,17 @@ import com.library.repository.BookRepository;
 
 public class BookService {
 
-    private BookRepository repository;
+    // Dependency
+    private BookRepository bookRepository;
 
-    public void setRepository(BookRepository repository) {
-        this.repository = repository;
+    // Setter Injection
+    public void setBookRepository(BookRepository bookRepository) {
+        this.bookRepository = bookRepository;
     }
 
-    public void displayService() {
-        System.out.println("BookService Bean Created");
-        repository.displayRepository();
+    public void addBook() {
+        System.out.println("BookService: Adding Book...");
+        bookRepository.saveBook();
     }
 
 }

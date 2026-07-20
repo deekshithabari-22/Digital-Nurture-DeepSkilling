@@ -15,8 +15,6 @@ public class App {
         BookService service =
                 (BookService) context.getBean("bookService");
 
-        service.displayService();
-
+        service.addBook();
     }
-
 }
