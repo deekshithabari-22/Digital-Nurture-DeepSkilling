@@ -29,8 +29,26 @@ public class OrmLearnApplication {
 
         countryService = context.getBean(CountryService.class);
 
+        testAddCountry();
+
         testGetAllCountries();
 
+    }
+
+    private static void testAddCountry() {
+
+        LOGGER.info("Start");
+
+        Country country = new Country();
+
+        country.setCode("JP");
+        country.setName("Japan");
+
+        countryService.addCountry(country);
+
+        LOGGER.info("Country Added");
+
+        LOGGER.info("End");
     }
 
     private static void testGetAllCountries() {

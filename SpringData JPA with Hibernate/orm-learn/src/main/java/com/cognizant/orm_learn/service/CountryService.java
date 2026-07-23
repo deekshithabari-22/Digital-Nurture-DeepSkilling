@@ -21,4 +21,9 @@ public class CountryService {
         return countryRepository.findAll();
     }
 
+    @Transactional
+    public void addCountry(Country country) {
+        countryRepository.save(country);
+    }
+
 }
