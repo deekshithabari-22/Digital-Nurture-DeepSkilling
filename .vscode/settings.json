@@ -1,3 +1,8 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "Design_Patterns",
+        "DataStructures_Algorithms",
+        "Spring REST using Spring Boot/spring-learn/src/main/java/com/cognizant/spring_learn"
+    ]
 }
